@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FortitudeRecipe</string>
+    <string name="time_taken">Time taken</string>
+    <string name="title">Title</string>
+    <string name="time_taken_minute">Minute</string>
+    <string name="time_taken_hour">Hour</string>
+    <string name="time">Time</string>
+    <string name="description">Description</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="add_recipe">Add Recipe</string>
+    <string name="type">Type</string>
+</resources>
